@@ -5,7 +5,7 @@ import os
 
 ########################################################################################################################
 # Paste your token and a custom prefix right here:
-dc_token = "X"  # DISCORD-TOKEN
+dc_token = "Nzc3MjYyODQ5MTg5MDg1MjI1.X7A4cA.4A_FKuk9WbW3PlR22j_dzOCevDU"  # DISCORD-TOKEN
 dc_prefix = "!!"  # BOT-PREFIX
 
 ########################################################################################################################
